@@ -1,0 +1,175 @@
+[25/08/22, 10:28:06 AM] NLP Project🏹: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[25/08/22, 10:28:06 AM] ~ Avinash Saroj: ‎~ Avinash Saroj created this group
+[25/08/22, 3:14:23 PM] NLP Project🏹: ‎You joined using this group's invite link
+[25/08/22, 3:14:44 PM] Venu Vasam iiits: ‎Venu Vasam iiits joined using this group's invite link
+[30/08/22, 9:20:02 PM] ~ Avinash Saroj: Hi Guys,
+We have presentation in this week on Thursday.
+Everyone atleast   suggest topics which you are thinking so that we can finalise and start working from today.We don't have time. And Remember everyone has to contribute sir will ask questions  individually. So it's better that everyone contribute so that u can explain easily.
+@916302606788 @916281892368 @916302817849  please respond.
+[30/08/22, 9:21:21 PM] ~ Avinash Saroj: We have to make 6 slides and every member has to make at least one slide
+[30/08/22, 9:35:47 PM] Jayanth Korra: Image caption generator
+[30/08/22, 9:36:56 PM] ~ Avinash Saroj: Are u sure nobody is making it
+[30/08/22, 9:37:03 PM] Jayanth Korra: Haaaa
+[30/08/22, 9:37:08 PM] Jayanth Korra: I guess
+[30/08/22, 9:38:01 PM] ~ Avinash Saroj: I also have some 
+Resume parsing and WhatsApp chat analyser
+[30/08/22, 9:38:43 PM] Jayanth Korra: If ur sure and clear about it we will make it
+[30/08/22, 9:39:31 PM] ~ Avinash Saroj: Yeah resources are available on net and youtube we can learn and make
+[30/08/22, 9:40:05 PM] ~ Avinash Saroj: But not sure if anyother gp is making the same or not
+[30/08/22, 9:40:55 PM] ~ Avinash Saroj: Let's finalise the topic today
+[30/08/22, 9:41:33 PM] ~ Avinash Saroj: So that we can work on tomorrow holiday
+[30/08/22, 9:42:05 PM] Jayanth Korra: Like what’s chat analyser is huge topic I guess
+[30/08/22, 9:42:39 PM] ~ Avinash Saroj: Yeah but it depends on us what features we add
+[30/08/22, 9:43:12 PM] Jayanth Korra: No of language we have to select in it
+[30/08/22, 9:43:34 PM] ~ Avinash Saroj: We can add so many features in it as we learn more so it can be helpful for us if we want to continue it next sem
+[30/08/22, 9:44:11 PM] ~ Avinash Saroj: Cuz it also require little bit ML and in future we can do more
+[30/08/22, 9:44:20 PM] Jayanth Korra: Is this project continuities for next sem
+[30/08/22, 9:44:45 PM] Jayanth Korra: Are u from ml
+[30/08/22, 9:44:58 PM] ~ Avinash Saroj: Not sure
+[30/08/22, 9:45:13 PM] ~ Avinash Saroj: No bro
+[30/08/22, 9:45:20 PM] Jayanth Korra: No I guess
+[30/08/22, 9:45:29 PM] ~ Avinash Saroj: Hm
+[30/08/22, 9:46:13 PM] ~ Avinash Saroj: But we can keep it as small project we won't add too many features as for now
+[30/08/22, 9:46:36 PM] Jayanth Korra: U Finalise the topic we all are with you
+[30/08/22, 9:47:08 PM] ~ Avinash Saroj: Sending you one youtube video link see both these projects are explained
+[30/08/22, 9:47:44 PM] ~ Avinash Saroj: https://youtu.be/oWJe2T29kAo
+[30/08/22, 9:49:16 PM] ~ Avinash Saroj: Ok
+[30/08/22, 9:49:44 PM] Venu Vasam iiits: Yup
+[30/08/22, 9:49:55 PM] Venu Vasam iiits: As uh say @919044587898
+[30/08/22, 9:51:20 PM] ~ Avinash Saroj: 👍
+[31/08/22, 6:02:24 PM] ~ Avinash Saroj: Guys our project topic is WhatsApp chat analyser
+[31/08/22, 9:41:14 PM] Venu Vasam iiits: Have uh done PPT @919044587898
+[31/08/22, 9:41:41 PM] Venu Vasam iiits: You are head of our group na...
+[31/08/22, 9:42:23 PM] ~ Nikith Chatla: Wait bro he is on it, he will take some time
+[31/08/22, 9:42:39 PM] Venu Vasam iiits: Ok
+[31/08/22, 9:52:23 PM] ~ Avinash Saroj: @916302817849 @916281892368 @916302606788  We have a Google meet at 10 pm regarding our project at
+[31/08/22, 9:53:20 PM] ~ Avinash Saroj: Is everyone comfortable or we keep keep it at 10:30
+[31/08/22, 9:54:07 PM] ~ Avinash Saroj: Everyone pls respond
+[31/08/22, 9:58:40 PM] ~ Nikith Chatla: Ok send the Google meet link bro
+[31/08/22, 9:58:48 PM] Venu Vasam iiits: Make it 11bro
+[31/08/22, 9:59:05 PM] ~ Avinash Saroj: 11 is too late bro
+[31/08/22, 9:59:18 PM] ~ Nikith Chatla: Yeah bro
+[31/08/22, 9:59:52 PM] ~ Nikith Chatla: At that time we all must atleast should complete more than 80% of our work bro
+[31/08/22, 10:02:02 PM] ~ Avinash Saroj: First of all everyone should understand the project and know  what  we have to do
+‎[31/08/22, 10:02:05 PM] ~ Nikith Chatla: ‎image omitted
+[31/08/22, 11:26:40 PM] ~ Avinash Saroj: https://www.ijert.org/whatsapp-chat-analyzer
+‎[01/09/22, 1:29:39 AM] ~ Avinash Saroj: WhatAppChatAnalyzer.pdf • ‎8 pages ‎document omitted
+[03/11/22, 10:33:28 PM] ~ Nikith Chatla: @916281892368 @916302817849 bro please find any whatsapp group and please send the group chat data please we have less time
+[03/11/22, 10:33:47 PM] Jayanth Korra: What
+[03/11/22, 10:34:04 PM] Jayanth Korra: Like what
+[03/11/22, 10:34:13 PM] Jayanth Korra: Should we do
+[03/11/22, 10:34:28 PM] ~ Nikith Chatla: Group chat online if you get
+[03/11/22, 10:34:33 PM] Jayanth Korra: Message forward chayalaaaa
+[03/11/22, 10:35:24 PM] ~ Nikith Chatla: Kadu adi export chat through pampadi kani personal vadu
+[03/11/22, 10:35:34 PM] Jayanth Korra: Elaaaa
+[03/11/22, 10:36:22 PM] ~ Nikith Chatla: Don't know bro avinash said it can get it Google it seems but I didn't get please try to get it
+[06/11/22, 1:17:05 PM] ~ Nikith Chatla: Hey guys.. I might need to stay back on the Friday (11th Nov). Is it okay with you all to schedule the review on Monday lunch break? If yes, then I'd personally request Himangshu sir regarding the postpone.
+[06/11/22, 1:17:26 PM] ~ Nikith Chatla: Let me know at the earliest. Thank you guys.
+[06/11/22, 1:17:50 PM] ~ Avinash Saroj: Did you tried with the chat i sent you
+[06/11/22, 1:34:59 PM] ~ Nikith Chatla: No bro
+[06/11/22, 1:36:17 PM] ~ Nikith Chatla: Getting 0 errors but Getting cautions 34
+[06/11/22, 1:36:35 PM] ~ Nikith Chatla: Can I send you the code?
+[06/11/22, 1:37:04 PM] ~ Avinash Saroj: Yeah
+[06/11/22, 1:37:46 PM] ~ Nikith Chatla: ?
+[08/11/22, 12:20:29 PM] ~ Avinash Saroj: https://thecleverprogrammer.com/2021/06/06/whatsapp-chat-sentiment-analysis-using-python/
+[08/11/22, 12:22:26 PM] ~ Avinash Saroj: Everyone Go through the project code given  on this site and try to understand the code. learn about the libraries used in this project. And learn  installing and using these libraries. Sir will ask questions from these things may be.
+[08/11/22, 12:23:07 PM] Jayanth Korra: broo when is evaluation
+[08/11/22, 12:23:39 PM] ~ Nikith Chatla: Wednesday
+[08/11/22, 12:24:02 PM] ~ Avinash Saroj: So start learning from now itself because tomorrow from 9:30 am we have evaluation
+[08/11/22, 12:24:17 PM] ~ Nikith Chatla: Because of me it may delay for our group
+[08/11/22, 12:24:26 PM] Jayanth Korra: brooo we have understand code
+[08/11/22, 12:24:44 PM] ~ Avinash Saroj: And  first our group turn will come this time.
+[08/11/22, 12:25:04 PM] Jayanth Korra: but I don't know python
+[08/11/22, 12:25:05 PM] ~ Avinash Saroj: So start woking from now
+[08/11/22, 12:25:15 PM] ~ Avinash Saroj: working*
+[08/11/22, 12:25:20 PM] Jayanth Korra: ok
+[08/11/22, 12:25:30 PM] ~ Nikith Chatla: Bro when I asked sir for our group when I will come then only our evaluation will happen it seems
+[08/11/22, 12:25:52 PM] ~ Nikith Chatla: So once ask to sir avinash bro
+[08/11/22, 12:26:18 PM] ~ Avinash Saroj: Where a u now at home or in hostel
+[08/11/22, 12:26:23 PM] ~ Nikith Chatla: Home
+[08/11/22, 12:26:32 PM] ~ Avinash Saroj: When you will come
+[08/11/22, 12:26:39 PM] ~ Nikith Chatla: .
+[08/11/22, 12:27:14 PM] ~ Avinash Saroj: Did you asked sir to pospone our review for any other day
+[08/11/22, 12:27:58 PM] ~ Avinash Saroj: what did sir say to you regarding this
+[08/11/22, 12:33:21 PM] ~ Nikith Chatla: Guys I'm on medical emergency. So I couldn't attend before 12 will schedule it after 12 Nov also conveyed it to sir through phone please understand my situation
+[08/11/22, 12:33:42 PM] Jayanth Korra: ok brooo
+[08/11/22, 12:34:01 PM] ~ Avinash Saroj: what sir said
+[08/11/22, 12:36:58 PM] ~ Nikith Chatla: He said ok will continue on 14
+[08/11/22, 12:39:15 PM] ~ Avinash Saroj: did he send mail to you regarding this
+‎[08/11/22, 8:23:24 PM] ~ Avinash Saroj: WhatsappChat Analyzer.zip ‎document omitted
+[08/11/22, 8:24:55 PM] ~ Avinash Saroj: Guys our project is ready for review. Extract the zip folder and try to run the code in your system.
+[08/11/22, 8:27:27 PM] ~ Avinash Saroj: for running you will have to install some libraries 1: pandas 2: numpy 3:emojis 4:nltk 5: wordcloud 6: matplotlib 7:vader
+[08/11/22, 8:27:59 PM] ~ Avinash Saroj: install all these libraries using vs code or  cmd terminal
+[08/11/22, 8:29:07 PM] ~ Avinash Saroj: example of installing a library  : pip install  pandas
+[08/11/22, 8:29:32 PM] ~ Avinash Saroj: similary install all libraries I have mentioned and then run the code
+[08/11/22, 8:29:59 PM] ~ Avinash Saroj: using command : python filename.py
+[08/11/22, 8:30:45 PM] ~ Avinash Saroj: And after running learn about all libraries  used in the project and try to understand the code
+[08/11/22, 8:31:27 PM] ~ Avinash Saroj: Sir can ask to explain the use of the libraries and to explain the code as well
+[08/11/22, 8:31:34 PM] ~ Avinash Saroj: So be prepared
+[08/11/22, 8:32:08 PM] ~ Avinash Saroj: for any doubt  google it you will be able to understand
+[08/11/22, 9:02:40 PM] Jayanth Korra: When is review
+[08/11/22, 9:09:28 PM] ~ Avinash Saroj: I will mailed to sir to confirm
+[09/11/22, 12:08:49 AM] Venu Vasam iiits: What is our group no.
+[09/11/22, 12:08:51 AM] Venu Vasam iiits: ?
+[09/11/22, 12:09:19 AM] ~ Avinash Saroj: 17
+[09/11/22, 12:11:53 AM] Venu Vasam iiits: Ok
+[09/11/22, 12:11:56 AM] Venu Vasam iiits: Fine
+[09/11/22, 12:28:00 AM] Jayanth Korra: Is presentation there are not
+‎[09/11/22, 8:05:16 AM] Jayanth Korra: NLP_Grp-17.pdf • ‎14 pages ‎document omitted
+[09/11/22, 11:20:49 AM] ~ Avinash Saroj: Sir is asking individual contribution from each member.And he is very serious about it.If someone is unable to explain he is not giving marks to that member
+[09/11/22, 11:21:44 AM] ~ Avinash Saroj: And every member has to show his  contribution  by opening and explaining the code
+[09/11/22, 11:22:07 AM] ~ Avinash Saroj: I am in the class only and watching everything
+[09/11/22, 11:22:46 AM] ~ Avinash Saroj: And we have used libraries  for most of the work .
+[09/11/22, 11:23:27 AM] ~ Avinash Saroj: and sir is against using libraries so we have to do it again without using libraries.
+[09/11/22, 11:23:45 AM] ~ Avinash Saroj: So everyone take it seriously and start learning
+[09/11/22, 11:24:46 AM] ~ Avinash Saroj: its not like last time that only one person will explain the whole thing.
+[09/11/22, 11:25:17 AM] ~ Avinash Saroj: So  don't take it lightly. Start learning from now only.
+[09/11/22, 11:26:39 AM] ~ Avinash Saroj: Sir is focusing on using NLP techniques. So you must know how to use sentimental analysis and how to implement it.
+[09/11/22, 7:07:11 PM] Jayanth Korra: Then how to do
+[09/11/22, 7:07:43 PM] Jayanth Korra: With out library how python code are used
+[14/11/22, 7:10:44 PM] ~ Avinash Saroj: https://youtu.be/avJp4f1uzuY
+[14/11/22, 7:11:50 PM] ~ Avinash Saroj: @916281892368 @916302606788 @916302817849  go through this video. The whole code has been explained  in this video.
+[14/11/22, 7:12:42 PM] ~ Avinash Saroj: It will give better understanding of the code . It will help you in explanation.
+[14/11/22, 7:17:55 PM] ~ Avinash Saroj: Today we have meeting at 10:00 pm
+[14/11/22, 7:18:12 PM] ~ Nikith Chatla: Yeah sure bro
+[14/11/22, 7:18:14 PM] ~ Avinash Saroj: So everyone be on time
+[14/11/22, 7:18:31 PM] ~ Avinash Saroj: I am keeping the meeting in my room
+[14/11/22, 7:18:31 PM] ~ Nikith Chatla: Venue??
+[14/11/22, 7:18:36 PM] ~ Avinash Saroj: 503
+[14/11/22, 7:18:39 PM] ~ Nikith Chatla: Ok
+[14/11/22, 7:19:40 PM] ~ Avinash Saroj: Guys you have time  it would be better if you go though the video  before we meet
+[14/11/22, 7:23:07 PM] ~ Avinash Saroj: As  sir is strictly going to focus on nlp techniques  1:Tokenization  2:  Stemming  3: lemmetisation 4: stopwords removal  used in the project. figure out where these techniques has been used in the code.
+[14/11/22, 7:23:43 PM] ~ Avinash Saroj: And learn how to use these techniques without using library.
+[14/11/22, 7:24:27 PM] ~ Avinash Saroj: Sir will ask questions  individually  from your contribution in  the code part
+[14/11/22, 7:24:40 PM] ~ Avinash Saroj: So be ready guys
+[14/11/22, 10:58:03 PM] Jayanth Korra: https://youtu.be/Q0QwvZKG_6Q
+[15/11/22, 6:31:58 PM] ~ Avinash Saroj: Guys did you got the code
+[15/11/22, 11:40:59 PM] ~ Nikith Chatla: Bro tomorrow 10:30AM evaluation will start at 107 room no
+‎[16/11/22, 8:45:46 AM] Jayanth Korra: Chat.txt ‎document omitted
+‎[16/11/22, 8:46:02 AM] Jayanth Korra: stopwords.csv ‎document omitted
+[16/11/22, 10:36:31 AM] ~ Nikith Chatla: Come fast guys sir is very angry
+[05/12/22, 2:51:48 PM] ~ Avinash Saroj: Guys, today we have to complete our project for the final review. 
+Kindly let me know when we can meet. If anyone have fsd evaluation or any other exam let me know.
+So that we can decide when to meet.
+[05/12/22, 2:58:05 PM] Venu Vasam iiits: 3.45
+[05/12/22, 2:58:31 PM] ~ Nikith Chatla: +1
+[05/12/22, 4:10:28 PM] ~ Avinash Saroj: Guys I talked to some groups who have completed their end  review
+There is no need of slides this time.
+[05/12/22, 4:11:29 PM] ~ Avinash Saroj: And sir is asking to explain the code
+[05/12/22, 4:11:43 PM] ~ Avinash Saroj: So just focus on code part
+[05/12/22, 4:12:13 PM] ~ Avinash Saroj: Try to Google the code which you don't know
+[06/12/22, 7:26:08 AM] ~ Avinash Saroj: Guys out project is ready the code is working fine
+[06/12/22, 7:27:11 AM] ~ Avinash Saroj: Since we 70% par we already completed in mid two
+[06/12/22, 7:27:55 AM] ~ Avinash Saroj: So end review code part in not so long .
+[06/12/22, 7:28:44 AM] ~ Avinash Saroj: Our review is from 10:45
+[06/12/22, 7:32:14 AM] ~ Avinash Saroj: So  we will meet at 10am at  academic block library.
+And we will look at the code part and decide how to explain to sir.
+[06/12/22, 7:32:29 AM] ~ Avinash Saroj: So everyone be on time don't be late
+‎[06/12/22, 7:40:49 AM] ~ Avinash Saroj: bare_conf_compsoc.pdf • ‎1 page ‎document omitted
+‎[07/12/22, 6:47:42 PM] ~ Nikith Chatla: WhatsApp Chat Analyzer.pdf • ‎3 pages ‎document omitted
+[27/12/22, 8:31:40 PM] ~ Nikith Chatla: ‎‎Your security code with ‪+91 6302 606 788‬ changed. ‎Tap to learn more.
+[21/03/23, 12:29:18 PM] ~ Avinash Saroj: ‎‎Your security code with ‪+91 90445 87898‬ changed. ‎Tap to learn more.
+[21/03/23, 1:56:01 PM] ~ Avinash Saroj: ‎‎Your security code with ‪+91 90445 87898‬ changed. ‎Tap to learn more.
+[28/03/23, 1:52:16 PM] ~ Avinash Saroj: ‎‎Your security code with ‪+91 90445 87898‬ changed. ‎Tap to learn more.
+[28/03/23, 4:28:49 PM] ~ Avinash Saroj: ‎‎Your security code with ‪+91 90445 87898‬ changed. ‎Tap to learn more.
+[22/04/23, 5:40:25 PM] ~ Avinash Saroj: ‎‎Your security code with ‪+91 90445 87898‬ changed. ‎Tap to learn more.
